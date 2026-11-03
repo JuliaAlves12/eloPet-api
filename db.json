@@ -1,0 +1,125 @@
+{
+  "animais": [
+    {
+      "id": "1",
+      "nome": "Luna",
+      "especie": "Gato",
+      "raca": "Siamês",
+      "idade": "2 anos",
+      "porte": "Pequeno",
+      "sexo": "Fêmea",
+      "descricao": "Carinhosa e tranquila. Adora brincar com bolinhas e tomar sol",
+      "imagem": "https://i.pinimg.com/originals/30/09/a6/3009a601ae4f5bb6150c5d62c6c8db9c.jpg",
+      "disponivel": true
+    },
+    {
+      "id": "2",
+      "nome": "Thor",
+      "especie": "Cachorro",
+      "raca": "Golden Retriever",
+      "idade": "1 ano",
+      "porte": "Grande",
+      "sexo": "Macho",
+      "descricao": "Muito enérgico, companheiro e brincalhão",
+      "imagem": "https://petanjo.com/blog/wp-content/uploads/2021/03/golden-retriever-2-1024x683.png",
+      "disponivel": true
+    },
+    {
+      "id": "3",
+      "nome": "Sasha",
+      "especie": "Cobra",
+      "raca": "Jiboia Arco-Íris",
+      "idade": "3 anos",
+      "porte": "Médio",
+      "sexo": "Fêmea",
+      "descricao": "Animal legalizado, dócil e adaptada ao manuseio",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7mkxM74gg8czXqKZeuMbQO-iWixJi5ZsUZt-Pa1oekYvZYL5daJ5EvEE&s=10",
+      "disponivel": true
+    },
+    {
+      "id": "4",
+      "nome": "Flocos",
+      "especie": "Coelho",
+      "raca": "Mini Lion Head",
+      "idade": "6 meses",
+      "porte": "Pequeno",
+      "sexo": "Macho",
+      "descricao": "Muito dócil e calmo. Adora comer folhas frescas e cenoura",
+      "imagem": "https://images.unsplash.com/photo-1585110396000-c9fd4e4e5030?w=500",
+      "disponivel": true
+    },
+    {
+      "id": "5",
+      "nome": "Mel",
+      "especie": "Cachorro",
+      "raca": "Vira-lata (SRD)",
+      "idade": "3 anos",
+      "porte": "Médio",
+      "sexo": "Fêmea",
+      "descricao": "Resgatada das ruas, muito dócil, sociável com crianças e outros cães",
+      "imagem": "https://blogevet.com.br/wp-content/uploads/2017/03/10-motivos-para-adotar-um-cachorro-vira-lata.jpeg",
+      "disponivel": true
+    },
+    {
+      "id": "6",
+      "nome": "Paco",
+      "especie": "Ave",
+      "raca": "Calopsita",
+      "idade": "1 ano",
+      "porte": "Pequeno",
+      "sexo": "Macho",
+      "descricao": "Assobia trechos de músicas e gosta de ficar no ombro dos tutores",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBJAocrgd5xahz-6ePKJrYW4qmbbNYey0qYAwKCaT6Nw&s=10",
+      "disponivel": true
+    },
+    {
+      "id": "7",
+      "nome": "Miau",
+      "especie": "Gato",
+      "raca": "Persa",
+      "idade": "4 anos",
+      "porte": "Médio",
+      "sexo": "Macho",
+      "descricao": "Super tranquilo, passa a maior parte do dia dormindo nos sofás",
+      "imagem": "https://purina.com.br/sites/default/files/noticias/2020/12/persa-exotico-saiba-mais-sobre-essa-raca-de-gato.jpg",
+      "disponivel": true
+    },
+    {
+      "id": "8",
+      "nome": "Bob",
+      "especie": "Cachorro",
+      "raca": "Pug",
+      "idade": "2 anos",
+      "porte": "Pequeno",
+      "sexo": "Macho",
+      "descricao": "Carinhoso, calmo e adorável. Companheiro para todas as horas",
+      "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2020/04/pug-personalidade-pet.jpg",
+      "disponivel": true
+    },
+    {
+      "id": "9",
+      "nome": "Nina",
+      "especie": "Gato",
+      "raca": "Vira-lata (SRD)",
+      "idade": "1 ano",
+      "porte": "Pequeno",
+      "sexo": "Fêmea",
+      "descricao": "Brincalhão e curioso. Adora caçar brinquedos e carinho no queixo",
+      "imagem": "https://s2-g1.glbimg.com/eCT2_Y1J_ePT93c-WgW_s-hhplE=/0x81:1142x1075/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/j/rNebVUSVKLAC6BDoQNTA/whatsapp-image-2024-09-07-at-08.49.58.jpeg",
+      "disponivel": true
+    },
+    {
+      "id": "10",
+      "nome": "Spike",
+      "especie": "Outros",
+      "raca": "Iguana Verde",
+      "idade": "2 anos",
+      "porte": "Médio",
+      "sexo": "Macho",
+      "descricao": "Tranquilo e acostumado ao terrário. Alimenta-se de vegetais e frutas",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNDIezAeaV9AuaLNNS26x08xwyqsuo0NLcAu1x0MTl74qeWlu68k0g-AI&s=10",
+      "disponivel": true
+    }
+  ],
+  "solicitacoes": []
+}
